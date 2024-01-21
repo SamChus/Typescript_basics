@@ -1,1 +1,0 @@
-Version control is a system that allows developers to track and manage changes to their code or files over time. It helps in keeping a history of modifications, facilitating collaboration among team members, and enabling the abi
